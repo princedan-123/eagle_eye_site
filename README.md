@@ -32,7 +32,7 @@ We **never** collect, store, or transmit your browsing data. All analysis happen
 ---
 
 ## ⚙️ Installation  
-1. [Download from Chrome Web Store](INSERT_LINK_HERE)  
+1. [Download from Chrome Web Store](https://chromewebstore.google.com/detail/eagle-eye/ochibjgemgfaloiedoecgfgbgaommooh)  
 2. Click "Add to Chrome"  
 3. Browse safely!  
 
