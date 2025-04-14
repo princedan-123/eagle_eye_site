@@ -73,4 +73,4 @@ For best results, keep the extension updated and report any undetected sites via
 
 ---
 
-🚀 **Ready to take control of your browsing?** [Install Now](#)
+🚀 **Ready to take control of your browsing?** [Install Now](https://chromewebstore.google.com/detail/eagle-eye/ochibjgemgfaloiedoecgfgbgaommooh)
